@@ -176,3 +176,27 @@ p {
 .call-to-action p {
     padding-bottom: 20px;
 }
+
+/* Portifólio */
+
+.portifolio {
+    width: 100%;
+    background: #000;
+    padding: 60px 0;
+}
+
+.portifolio .subtitulo {
+    color: #fec63e;
+}
+
+.portifolio .subtitulo::after {
+    background: #fec63e;
+}
+
+.portifolio_lista li:last-child {
+    margin-top: 20px;
+}
+
+.portifolio .call-to-action p {
+    color: #FFF;
+}
