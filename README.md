@@ -1,2 +1,2 @@
-# projeto-Bikcraft-aulas-origamid
+# Projeto-Bikcraft-aulas-origamid
 Repositório git do curso Origamid, projeto site Bikcraft.
